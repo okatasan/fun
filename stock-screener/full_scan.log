@@ -1,0 +1,302 @@
+[2026-02-11 21:35:57.969239] 开始扫描...
+共 4415 只股票待扫描
+login success!
+  ✅ 600007 中国国贸 - {'amplitude': '0.0856', 'slope': '0.016051', 'vol_front': '0.013967', 'vol_back': '0.013800', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(21.05), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600007', 'name': '中国国贸'}
+  ✅ 600008 首创环保 - {'amplitude': '0.0523', 'slope': '0.000831', 'vol_front': '0.010335', 'vol_back': '0.003493', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.15), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600008', 'name': '首创环保'}
+  ✅ 600017 日照港 - {'amplitude': '0.0645', 'slope': '0.001565', 'vol_front': '0.015572', 'vol_back': '0.007022', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.2), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600017', 'name': '日照港'}
+  进度: 20/4415, 命中: 3, 错误: 0
+  ✅ 600032 浙江新能 - {'amplitude': '0.0721', 'slope': '0.002343', 'vol_front': '0.015936', 'vol_back': '0.009250', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.18), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600032', 'name': '浙江新能'}
+  ✅ 600051 宁波联合 - {'amplitude': '0.0887', 'slope': '0.006001', 'vol_front': '0.016170', 'vol_back': '0.013084', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.22), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600051', 'name': '宁波联合'}
+  进度: 40/4415, 命中: 5, 错误: 0
+  ✅ 600056 中国医药 - {'amplitude': '0.0880', 'slope': '0.001780', 'vol_front': '0.016541', 'vol_back': '0.004879', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.5), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600056', 'name': '中国医药'}
+  ✅ 600060 海信视像 - {'amplitude': '0.1147', 'slope': '0.001205', 'vol_front': '0.021899', 'vol_back': '0.019792', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(26.03), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600060', 'name': '海信视像'}
+  ✅ 600064 南京高科 - {'amplitude': '0.0710', 'slope': '0.001680', 'vol_front': '0.016146', 'vol_back': '0.009864', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.22), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600064', 'name': '南京高科'}
+  进度: 60/4415, 命中: 8, 错误: 0
+  ✅ 600098 广州发展 - {'amplitude': '0.0856', 'slope': '0.004905', 'vol_front': '0.025039', 'vol_back': '0.010537', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.18), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600098', 'name': '广州发展'}
+  ✅ 600099 林海股份 - {'amplitude': '0.1060', 'slope': '0.010303', 'vol_front': '0.015192', 'vol_back': '0.012598', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.55), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600099', 'name': '林海股份'}
+  ✅ 600101 明星电力 - {'amplitude': '0.1029', 'slope': '0.003032', 'vol_front': '0.019675', 'vol_back': '0.006250', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(10.52), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600101', 'name': '明星电力'}
+  进度: 80/4415, 命中: 11, 错误: 0
+  ✅ 600116 三峡水利 - {'amplitude': '0.0553', 'slope': '0.000864', 'vol_front': '0.014208', 'vol_back': '0.009893', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.88), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600116', 'name': '三峡水利'}
+  ✅ 600125 铁龙物流 - {'amplitude': '0.0713', 'slope': '0.000923', 'vol_front': '0.017180', 'vol_back': '0.008310', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.7), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600125', 'name': '铁龙物流'}
+  ✅ 600128 苏豪弘业 - {'amplitude': '0.0856', 'slope': '0.006803', 'vol_front': '0.018210', 'vol_back': '0.009805', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.01), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600128', 'name': '苏豪弘业'}
+  进度: 100/4415, 命中: 14, 错误: 0
+  ✅ 600153 建发股份 - {'amplitude': '0.1106', 'slope': '0.004717', 'vol_front': '0.018574', 'vol_back': '0.013706', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.75), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600153', 'name': '建发股份'}
+  进度: 120/4415, 命中: 15, 错误: 0
+  进度: 140/4415, 命中: 15, 错误: 0
+  ✅ 600197 伊力特 - {'amplitude': '0.1077', 'slope': '0.001668', 'vol_front': '0.019457', 'vol_back': '0.012198', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.77), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600197', 'name': '伊力特'}
+  进度: 160/4415, 命中: 16, 错误: 0
+  ✅ 600229 城市传媒 - {'amplitude': '0.1135', 'slope': '0.001360', 'vol_front': '0.022405', 'vol_back': '0.019989', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.25), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600229', 'name': '城市传媒'}
+  ✅ 600235 民丰特纸 - {'amplitude': '0.0978', 'slope': '0.004989', 'vol_front': '0.014964', 'vol_back': '0.013454', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.3), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600235', 'name': '民丰特纸'}
+  进度: 180/4415, 命中: 18, 错误: 0
+  进度: 200/4415, 命中: 18, 错误: 0
+  ✅ 600285 羚锐制药 - {'amplitude': '0.0985', 'slope': '0.016666', 'vol_front': '0.013993', 'vol_back': '0.012664', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(22.85), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600285', 'name': '羚锐制药'}
+  ✅ 600287 苏豪时尚 - {'amplitude': '0.0900', 'slope': '0.004968', 'vol_front': '0.017280', 'vol_back': '0.011188', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.15), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600287', 'name': '苏豪时尚'}
+  ✅ 600300 维维股份 - {'amplitude': '0.0944', 'slope': '0.002617', 'vol_front': '0.017348', 'vol_back': '0.012622', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.88), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600300', 'name': '维维股份'}
+  ✅ 600308 华泰股份 - {'amplitude': '0.0999', 'slope': '0.000956', 'vol_front': '0.025250', 'vol_back': '0.015057', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.24), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600308', 'name': '华泰股份'}
+  进度: 220/4415, 命中: 22, 错误: 0
+  ✅ 600323 瀚蓝环境 - {'amplitude': '0.0679', 'slope': '0.004744', 'vol_front': '0.012831', 'vol_back': '0.012699', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(29.92), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600323', 'name': '瀚蓝环境'}
+  进度: 240/4415, 命中: 23, 错误: 0
+  ✅ 600350 山东高速 - {'amplitude': '0.0918', 'slope': '0.007360', 'vol_front': '0.021887', 'vol_back': '0.005166', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(10.41), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600350', 'name': '山东高速'}
+  进度: 260/4415, 命中: 24, 错误: 0
+  ✅ 600375 汉马科技 - {'amplitude': '0.1070', 'slope': '0.000085', 'vol_front': '0.022682', 'vol_back': '0.018761', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.55), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600375', 'name': '汉马科技'}
+  ✅ 600377 宁沪高速 - {'amplitude': '0.0821', 'slope': '0.007211', 'vol_front': '0.018291', 'vol_back': '0.006712', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.45), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600377', 'name': '宁沪高速'}
+  ✅ 600379 宝光股份 - {'amplitude': '0.1059', 'slope': '0.004228', 'vol_front': '0.027053', 'vol_back': '0.011444', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.45), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600379', 'name': '宝光股份'}
+  进度: 280/4415, 命中: 27, 错误: 0
+  ✅ 600396 华电辽能 - {'amplitude': '0.0818', 'slope': '0.001918', 'vol_front': '0.015858', 'vol_back': '0.012664', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.17), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600396', 'name': '华电辽能'}
+  ✅ 600425 青松建化 - {'amplitude': '0.0890', 'slope': '0.003433', 'vol_front': '0.026311', 'vol_back': '0.009644', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.68), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600425', 'name': '青松建化'}
+  进度: 300/4415, 命中: 29, 错误: 0
+  ✅ 600429 三元股份 - {'amplitude': '0.1143', 'slope': '0.001873', 'vol_front': '0.016861', 'vol_back': '0.010654', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.56), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600429', 'name': '三元股份'}
+  ✅ 600449 宁夏建材 - {'amplitude': '0.0952', 'slope': '0.008067', 'vol_front': '0.021552', 'vol_back': '0.013405', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.78), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600449', 'name': '宁夏建材'}
+  ✅ 600455 博通股份 - {'amplitude': '0.1133', 'slope': '0.027821', 'vol_front': '0.017924', 'vol_back': '0.011509', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(29.87), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600455', 'name': '博通股份'}
+  ✅ 600458 时代新材 - {'amplitude': '0.1003', 'slope': '0.001976', 'vol_front': '0.026230', 'vol_back': '0.012650', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(15.19), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600458', 'name': '时代新材'}
+  ✅ 600461 洪城环境 - {'amplitude': '0.0729', 'slope': '0.005638', 'vol_front': '0.018342', 'vol_back': '0.009336', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.9), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600461', 'name': '洪城环境'}
+  进度: 320/4415, 命中: 34, 错误: 0
+  ✅ 600467 好当家 - {'amplitude': '0.0750', 'slope': '0.000596', 'vol_front': '0.014838', 'vol_back': '0.012082', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(2.78), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600467', 'name': '好当家'}
+  进度: 340/4415, 命中: 35, 错误: 0
+  ✅ 600496 精工钢构 - {'amplitude': '0.0869', 'slope': '0.001287', 'vol_front': '0.021110', 'vol_back': '0.013034', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.79), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600496', 'name': '精工钢构'}
+  ✅ 600512 腾达建设 - {'amplitude': '0.0601', 'slope': '0.000443', 'vol_front': '0.015068', 'vol_back': '0.012421', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(2.57), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600512', 'name': '腾达建设'}
+  进度: 360/4415, 命中: 37, 错误: 0
+  ✅ 600526 菲达环保 - {'amplitude': '0.0943', 'slope': '0.004336', 'vol_front': '0.020002', 'vol_back': '0.007444', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.85), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600526', 'name': '菲达环保'}
+  ✅ 600527 江南高纤 - {'amplitude': '0.0887', 'slope': '0.001110', 'vol_front': '0.019566', 'vol_back': '0.018107', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(2.36), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600527', 'name': '江南高纤'}
+  进度: 380/4415, 命中: 39, 错误: 0
+  ✅ 600548 深高速 - {'amplitude': '0.0646', 'slope': '0.004664', 'vol_front': '0.013055', 'vol_back': '0.009825', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.25), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600548', 'name': '深高速'}
+  ✅ 600561 江西长运 - {'amplitude': '0.1089', 'slope': '0.006740', 'vol_front': '0.017988', 'vol_back': '0.015359', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.28), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600561', 'name': '江西长运'}
+  进度: 400/4415, 命中: 41, 错误: 0
+  ✅ 600572 康恩贝 - {'amplitude': '0.0594', 'slope': '0.000027', 'vol_front': '0.010110', 'vol_back': '0.008873', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.71), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600572', 'name': '康恩贝'}
+  进度: 420/4415, 命中: 42, 错误: 0
+  ✅ 600603 广汇物流 - {'amplitude': '0.1088', 'slope': '0.004005', 'vol_front': '0.028762', 'vol_back': '0.018981', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.88), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600603', 'name': '广汇物流'}
+  进度: 440/4415, 命中: 43, 错误: 0
+  ✅ 600616 金枫酒业 - {'amplitude': '0.1087', 'slope': '0.002582', 'vol_front': '0.016617', 'vol_back': '0.009319', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.0), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600616', 'name': '金枫酒业'}
+  ✅ 600639 浦东金桥 - {'amplitude': '0.0875', 'slope': '0.003472', 'vol_front': '0.015502', 'vol_back': '0.015272', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.23), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600639', 'name': '浦东金桥'}
+  ✅ 600642 申能股份 - {'amplitude': '0.0668', 'slope': '0.004936', 'vol_front': '0.018408', 'vol_back': '0.006907', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.46), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600642', 'name': '申能股份'}
+  进度: 460/4415, 命中: 46, 错误: 0
+  ✅ 600661 昂立教育 - {'amplitude': '0.0919', 'slope': '0.004072', 'vol_front': '0.016199', 'vol_back': '0.011142', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.39), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600661', 'name': '昂立教育'}
+  进度: 480/4415, 命中: 47, 错误: 0
+  ✅ 600675 中华企业 - {'amplitude': '0.1144', 'slope': '0.001886', 'vol_front': '0.031188', 'vol_back': '0.016763', 'narrow_segments': 1, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.04), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600675', 'name': '中华企业'}
+  ✅ 600681 百川能源 - {'amplitude': '0.0953', 'slope': '0.000210', 'vol_front': '0.016781', 'vol_back': '0.010405', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.44), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600681', 'name': '百川能源'}
+  进度: 500/4415, 命中: 49, 错误: 0
+  ✅ 600697 欧亚集团 - {'amplitude': '0.0757', 'slope': '0.001920', 'vol_front': '0.016255', 'vol_back': '0.012182', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.35), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600697', 'name': '欧亚集团'}
+  ✅ 600713 南京医药 - {'amplitude': '0.0779', 'slope': '0.000407', 'vol_front': '0.013634', 'vol_back': '0.010955', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.78), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600713', 'name': '南京医药'}
+  ✅ 600717 天津港 - {'amplitude': '0.0762', 'slope': '0.002617', 'vol_front': '0.017667', 'vol_back': '0.007425', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.93), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600717', 'name': '天津港'}
+  ✅ 600719 大连热电 - {'amplitude': '0.0971', 'slope': '0.005762', 'vol_front': '0.022261', 'vol_back': '0.010128', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.78), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600719', 'name': '大连热电'}
+  进度: 520/4415, 命中: 53, 错误: 0
+  ✅ 600726 华电能源 - {'amplitude': '0.0832', 'slope': '0.001282', 'vol_front': '0.015534', 'vol_back': '0.009162', 'narrow_segments': 1, 'breakout_pct': '0.00%', 'platform_high': np.float64(2.62), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600726', 'name': '华电能源'}
+  ✅ 600738 丽尚国潮 - {'amplitude': '0.0943', 'slope': '0.002860', 'vol_front': '0.019672', 'vol_back': '0.013732', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.59), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600738', 'name': '丽尚国潮'}
+  进度: 540/4415, 命中: 55, 错误: 0
+  进度: 560/4415, 命中: 55, 错误: 0
+  ✅ 600780 通宝能源 - {'amplitude': '0.0840', 'slope': '0.003597', 'vol_front': '0.023614', 'vol_back': '0.005151', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.27), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600780', 'name': '通宝能源'}
+  ✅ 600787 中储股份 - {'amplitude': '0.0517', 'slope': '0.001715', 'vol_front': '0.013179', 'vol_back': '0.006970', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.96), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600787', 'name': '中储股份'}
+  进度: 580/4415, 命中: 57, 错误: 0
+  进度: 600/4415, 命中: 57, 错误: 0
+  ✅ 600820 隧道股份 - {'amplitude': '0.0512', 'slope': '0.000738', 'vol_front': '0.010136', 'vol_back': '0.007769', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.83), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600820', 'name': '隧道股份'}
+  ✅ 600826 兰生股份 - {'amplitude': '0.1102', 'slope': '0.004643', 'vol_front': '0.024044', 'vol_back': '0.011276', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.0), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600826', 'name': '兰生股份'}
+  ✅ 600834 申通地铁 - {'amplitude': '0.0733', 'slope': '0.002202', 'vol_front': '0.013985', 'vol_back': '0.005445', 'narrow_segments': 2, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.15), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600834', 'name': '申通地铁'}
+  进度: 620/4415, 命中: 60, 错误: 0
+  ✅ 600854 春兰股份 - {'amplitude': '0.0895', 'slope': '0.004595', 'vol_front': '0.019134', 'vol_back': '0.009454', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.47), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600854', 'name': '春兰股份'}
+  ✅ 600863 内蒙华电 - {'amplitude': '0.1135', 'slope': '0.003462', 'vol_front': '0.024063', 'vol_back': '0.011722', 'narrow_segments': 2, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.08), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600863', 'name': '内蒙华电'}
+  ✅ 600866 星湖科技 - {'amplitude': '0.0659', 'slope': '0.001027', 'vol_front': '0.017228', 'vol_back': '0.010837', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.56), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600866', 'name': '星湖科技'}
+  进度: 640/4415, 命中: 63, 错误: 0
+  ✅ 600867 通化东宝 - {'amplitude': '0.1138', 'slope': '0.004054', 'vol_front': '0.023546', 'vol_back': '0.018252', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.44), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600867', 'name': '通化东宝'}
+  ✅ 600873 梅花生物 - {'amplitude': '0.1009', 'slope': '0.007941', 'vol_front': '0.026140', 'vol_back': '0.017049', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.2), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600873', 'name': '梅花生物'}
+  ✅ 600874 创业环保 - {'amplitude': '0.0707', 'slope': '0.002706', 'vol_front': '0.017051', 'vol_back': '0.008117', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.44), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600874', 'name': '创业环保'}
+  进度: 660/4415, 命中: 66, 错误: 0
+  ✅ 600903 贵州燃气 - {'amplitude': '0.0630', 'slope': '0.001033', 'vol_front': '0.014433', 'vol_back': '0.006620', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.09), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600903', 'name': '贵州燃气'}
+  ✅ 600917 重庆燃气 - {'amplitude': '0.0581', 'slope': '0.001311', 'vol_front': '0.010798', 'vol_back': '0.005021', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.87), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600917', 'name': '重庆燃气'}
+  ✅ 600919 江苏银行 - {'amplitude': '0.1021', 'slope': '0.002712', 'vol_front': '0.026718', 'vol_back': '0.017819', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(10.68), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600919', 'name': '江苏银行'}
+  ✅ 600926 杭州银行 - {'amplitude': '0.1050', 'slope': '0.012815', 'vol_front': '0.020276', 'vol_back': '0.015363', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(16.68), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600926', 'name': '杭州银行'}
+  进度: 680/4415, 命中: 70, 错误: 0
+  ✅ 600956 新天绿能 - {'amplitude': '0.0583', 'slope': '0.000687', 'vol_front': '0.014906', 'vol_back': '0.009001', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.82), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600956', 'name': '新天绿能'}
+  进度: 700/4415, 命中: 71, 错误: 0
+  ✅ 600979 广安爱众 - {'amplitude': '0.0675', 'slope': '0.000004', 'vol_front': '0.011592', 'vol_back': '0.006617', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.75), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600979', 'name': '广安爱众'}
+  ✅ 600981 苏豪汇鸿 - {'amplitude': '0.0949', 'slope': '0.001751', 'vol_front': '0.019284', 'vol_back': '0.016739', 'narrow_segments': 2, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.54), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600981', 'name': '苏豪汇鸿'}
+  ✅ 600982 宁波能源 - {'amplitude': '0.0754', 'slope': '0.002222', 'vol_front': '0.019612', 'vol_back': '0.006270', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.78), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '600982', 'name': '宁波能源'}
+  进度: 720/4415, 命中: 74, 错误: 0
+  ✅ 601007 金陵饭店 - {'amplitude': '0.1103', 'slope': '0.007400', 'vol_front': '0.017243', 'vol_back': '0.010105', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.63), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601007', 'name': '金陵饭店'}
+  ✅ 601008 连云港 - {'amplitude': '0.0697', 'slope': '0.000240', 'vol_front': '0.010957', 'vol_back': '0.008011', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.53), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601008', 'name': '连云港'}
+  ✅ 601016 节能风电 - {'amplitude': '0.1024', 'slope': '0.000596', 'vol_front': '0.021061', 'vol_back': '0.011366', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.32), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601016', 'name': '节能风电'}
+  进度: 740/4415, 命中: 77, 错误: 0
+  ✅ 601019 山东出版 - {'amplitude': '0.0888', 'slope': '0.000287', 'vol_front': '0.016233', 'vol_back': '0.015174', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.51), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601019', 'name': '山东出版'}
+  ✅ 601022 宁波远洋 - {'amplitude': '0.0882', 'slope': '0.001658', 'vol_front': '0.018468', 'vol_back': '0.009943', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(10.16), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601022', 'name': '宁波远洋'}
+  ✅ 601038 一拖股份 - {'amplitude': '0.1111', 'slope': '0.000842', 'vol_front': '0.023498', 'vol_back': '0.021098', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(15.18), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601038', 'name': '一拖股份'}
+  ✅ 601083 锦江航运 - {'amplitude': '0.0552', 'slope': '0.002512', 'vol_front': '0.013720', 'vol_back': '0.008167', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.03), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601083', 'name': '锦江航运'}
+  进度: 760/4415, 命中: 81, 错误: 0
+  ✅ 601107 四川成渝 - {'amplitude': '0.1109', 'slope': '0.007826', 'vol_front': '0.021133', 'vol_back': '0.010464', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.64), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601107', 'name': '四川成渝'}
+  ✅ 601128 常熟银行 - {'amplitude': '0.0723', 'slope': '0.004583', 'vol_front': '0.019513', 'vol_back': '0.012187', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.45), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601128', 'name': '常熟银行'}
+  进度: 780/4415, 命中: 83, 错误: 0
+  ✅ 601139 深圳燃气 - {'amplitude': '0.0515', 'slope': '0.001629', 'vol_front': '0.012942', 'vol_back': '0.007988', 'narrow_segments': 2, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.96), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601139', 'name': '深圳燃气'}
+  ✅ 601156 东航物流 - {'amplitude': '0.0960', 'slope': '0.000872', 'vol_front': '0.019908', 'vol_back': '0.018506', 'narrow_segments': 2, 'breakout_pct': '0.00%', 'platform_high': np.float64(19.55), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601156', 'name': '东航物流'}
+  ✅ 601188 龙江交通 - {'amplitude': '0.0552', 'slope': '0.001429', 'vol_front': '0.012784', 'vol_back': '0.005398', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.71), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601188', 'name': '龙江交通'}
+  ✅ 601199 江南水务 - {'amplitude': '0.0719', 'slope': '0.003140', 'vol_front': '0.019636', 'vol_back': '0.005477', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.04), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601199', 'name': '江南水务'}
+  ✅ 601200 上海环境 - {'amplitude': '0.0689', 'slope': '0.004048', 'vol_front': '0.019681', 'vol_back': '0.006932', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.7), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601200', 'name': '上海环境'}
+  进度: 800/4415, 命中: 88, 错误: 0
+  ✅ 601311 骆驼股份 - {'amplitude': '0.0743', 'slope': '0.000639', 'vol_front': '0.015576', 'vol_back': '0.010760', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.96), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601311', 'name': '骆驼股份'}
+  ✅ 601326 秦港股份 - {'amplitude': '0.0708', 'slope': '0.001000', 'vol_front': '0.017523', 'vol_back': '0.009714', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.68), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601326', 'name': '秦港股份'}
+  进度: 820/4415, 命中: 90, 错误: 0
+  ✅ 601330 绿色动力 - {'amplitude': '0.0716', 'slope': '0.003244', 'vol_front': '0.018742', 'vol_back': '0.006557', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.34), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601330', 'name': '绿色动力'}
+  ✅ 601333 广深铁路 - {'amplitude': '0.0614', 'slope': '0.001093', 'vol_front': '0.012712', 'vol_back': '0.007886', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.2), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601333', 'name': '广深铁路'}
+  ✅ 601368 绿城水务 - {'amplitude': '0.0749', 'slope': '0.002564', 'vol_front': '0.016158', 'vol_back': '0.005380', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.38), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601368', 'name': '绿城水务'}
+  ✅ 601518 吉林高速 - {'amplitude': '0.0662', 'slope': '0.001679', 'vol_front': '0.015497', 'vol_back': '0.008556', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(2.95), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601518', 'name': '吉林高速'}
+  进度: 840/4415, 命中: 94, 错误: 0
+  ✅ 601555 东吴证券 - {'amplitude': '0.0887', 'slope': '0.003707', 'vol_front': '0.018137', 'vol_back': '0.011236', 'narrow_segments': 2, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.78), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601555', 'name': '东吴证券'}
+  进度: 860/4415, 命中: 95, 错误: 0
+  进度: 880/4415, 命中: 95, 错误: 0
+  ✅ 601717 中创智领 - {'amplitude': '0.1044', 'slope': '0.002784', 'vol_front': '0.027269', 'vol_back': '0.012515', 'narrow_segments': 1, 'breakout_pct': '0.00%', 'platform_high': np.float64(26.12), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601717', 'name': '中创智领'}
+  ✅ 601789 宁波建工 - {'amplitude': '0.0610', 'slope': '0.000098', 'vol_front': '0.012659', 'vol_back': '0.008329', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.45), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601789', 'name': '宁波建工'}
+  ✅ 601798 蓝科高新 - {'amplitude': '0.0805', 'slope': '0.002236', 'vol_front': '0.019079', 'vol_back': '0.010656', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.95), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601798', 'name': '蓝科高新'}
+  ✅ 601827 三峰环境 - {'amplitude': '0.0829', 'slope': '0.005599', 'vol_front': '0.026202', 'vol_back': '0.008522', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.15), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601827', 'name': '三峰环境'}
+  进度: 900/4415, 命中: 99, 错误: 0
+  ✅ 601866 中远海发 - {'amplitude': '0.0766', 'slope': '0.001203', 'vol_front': '0.021530', 'vol_back': '0.015327', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(2.71), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601866', 'name': '中远海发'}
+  ✅ 601880 辽港股份 - {'amplitude': '0.0669', 'slope': '0.000281', 'vol_front': '0.015932', 'vol_back': '0.009087', 'narrow_segments': 1, 'breakout_pct': '0.00%', 'platform_high': np.float64(1.71), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '601880', 'name': '辽港股份'}
+  进度: 920/4415, 命中: 101, 错误: 0
+  进度: 940/4415, 命中: 101, 错误: 0
+  进度: 960/4415, 命中: 101, 错误: 0
+  ✅ 603029 天鹅股份 - {'amplitude': '0.1067', 'slope': '0.017565', 'vol_front': '0.023458', 'vol_back': '0.011597', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(20.51), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603029', 'name': '天鹅股份'}
+  进度: 980/4415, 命中: 102, 错误: 0
+  ✅ 603041 美思德 - {'amplitude': '0.1114', 'slope': '0.011848', 'vol_front': '0.020246', 'vol_back': '0.013422', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.64), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603041', 'name': '美思德'}
+  ✅ 603053 成都燃气 - {'amplitude': '0.0841', 'slope': '0.002929', 'vol_front': '0.018324', 'vol_back': '0.006210', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(10.67), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603053', 'name': '成都燃气'}
+  进度: 1000/4415, 命中: 104, 错误: 0
+  ✅ 603062 麦加芯彩 - {'amplitude': '0.1060', 'slope': '0.041306', 'vol_front': '0.024343', 'vol_back': '0.014227', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(52.63), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603062', 'name': '麦加芯彩'}
+  ✅ 603065 宿迁联盛 - {'amplitude': '0.0732', 'slope': '0.004949', 'vol_front': '0.017782', 'vol_back': '0.009628', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.04), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603065', 'name': '宿迁联盛'}
+  ✅ 603066 音飞储存 - {'amplitude': '0.0568', 'slope': '0.001831', 'vol_front': '0.009867', 'vol_back': '0.005785', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.35), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603066', 'name': '音飞储存'}
+  进度: 1020/4415, 命中: 107, 错误: 0
+  ✅ 603081 大丰实业 - {'amplitude': '0.0849', 'slope': '0.003990', 'vol_front': '0.013671', 'vol_back': '0.009668', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.85), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603081', 'name': '大丰实业'}
+  ✅ 603082 北自科技 - {'amplitude': '0.0996', 'slope': '0.002094', 'vol_front': '0.014009', 'vol_back': '0.011009', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(40.06), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603082', 'name': '北自科技'}
+  进度: 1040/4415, 命中: 109, 错误: 0
+  ✅ 603102 百合股份 - {'amplitude': '0.0673', 'slope': '0.000918', 'vol_front': '0.018985', 'vol_back': '0.005278', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(47.4), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603102', 'name': '百合股份'}
+  ✅ 603116 红蜻蜓 - {'amplitude': '0.0829', 'slope': '0.000562', 'vol_front': '0.017897', 'vol_back': '0.014146', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.84), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603116', 'name': '红蜻蜓'}
+  进度: 1060/4415, 命中: 111, 错误: 0
+  ✅ 603136 天目湖 - {'amplitude': '0.0826', 'slope': '0.005452', 'vol_front': '0.012185', 'vol_back': '0.009153', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.65), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603136', 'name': '天目湖'}
+  ✅ 603137 恒尚节能 - {'amplitude': '0.0562', 'slope': '0.005323', 'vol_front': '0.009610', 'vol_back': '0.008608', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.81), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603137', 'name': '恒尚节能'}
+  进度: 1080/4415, 命中: 113, 错误: 0
+  ✅ 603167 渤海轮渡 - {'amplitude': '0.0526', 'slope': '0.002480', 'vol_front': '0.013358', 'vol_back': '0.009047', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.72), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603167', 'name': '渤海轮渡'}
+  ✅ 603177 德创环保 - {'amplitude': '0.0942', 'slope': '0.002747', 'vol_front': '0.017267', 'vol_back': '0.013711', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.19), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603177', 'name': '德创环保'}
+  进度: 1100/4415, 命中: 115, 错误: 0
+  ✅ 603182 嘉华股份 - {'amplitude': '0.0828', 'slope': '0.007339', 'vol_front': '0.011437', 'vol_back': '0.010839', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(16.8), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603182', 'name': '嘉华股份'}
+  ✅ 603183 建研院 - {'amplitude': '0.1145', 'slope': '0.004796', 'vol_front': '0.021514', 'vol_back': '0.011701', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.88), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603183', 'name': '建研院'}
+  ✅ 603201 常润股份 - {'amplitude': '0.1011', 'slope': '0.002457', 'vol_front': '0.015638', 'vol_back': '0.007997', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(18.09), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603201', 'name': '常润股份'}
+  进度: 1120/4415, 命中: 118, 错误: 0
+  ✅ 603207 小方制药 - {'amplitude': '0.0782', 'slope': '0.003508', 'vol_front': '0.015720', 'vol_back': '0.008680', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(31.82), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603207', 'name': '小方制药'}
+  ✅ 603208 江山欧派 - {'amplitude': '0.1145', 'slope': '0.000225', 'vol_front': '0.024519', 'vol_back': '0.005390', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(16.13), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603208', 'name': '江山欧派'}
+  ✅ 603209 兴通股份 - {'amplitude': '0.0642', 'slope': '0.003312', 'vol_front': '0.011047', 'vol_back': '0.009707', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(16.15), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603209', 'name': '兴通股份'}
+  ✅ 603213 镇洋发展 - {'amplitude': '0.0659', 'slope': '0.003120', 'vol_front': '0.012173', 'vol_back': '0.008288', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.0), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603213', 'name': '镇洋发展'}
+  ✅ 603218 日月股份 - {'amplitude': '0.0832', 'slope': '0.001082', 'vol_front': '0.019502', 'vol_back': '0.010439', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.45), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603218', 'name': '日月股份'}
+  进度: 1140/4415, 命中: 123, 错误: 0
+  ✅ 603227 雪峰科技 - {'amplitude': '0.0827', 'slope': '0.003011', 'vol_front': '0.014232', 'vol_back': '0.007676', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.08), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603227', 'name': '雪峰科技'}
+  ✅ 603230 内蒙新华 - {'amplitude': '0.0917', 'slope': '0.002660', 'vol_front': '0.022072', 'vol_back': '0.013654', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.42), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603230', 'name': '内蒙新华'}
+  ✅ 603231 索宝蛋白 - {'amplitude': '0.0873', 'slope': '0.007675', 'vol_front': '0.019612', 'vol_back': '0.014997', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(20.29), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603231', 'name': '索宝蛋白'}
+  进度: 1160/4415, 命中: 126, 错误: 0
+  ✅ 603276 恒兴新材 - {'amplitude': '0.1019', 'slope': '0.011661', 'vol_front': '0.024871', 'vol_back': '0.007445', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(18.86), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603276', 'name': '恒兴新材'}
+  进度: 1180/4415, 命中: 127, 错误: 0
+  ✅ 603289 泰瑞机器 - {'amplitude': '0.1058', 'slope': '0.007750', 'vol_front': '0.028428', 'vol_back': '0.006315', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.38), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603289', 'name': '泰瑞机器'}
+  ✅ 603310 巍华新材 - {'amplitude': '0.0614', 'slope': '0.002254', 'vol_front': '0.014692', 'vol_back': '0.008039', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(18.03), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603310', 'name': '巍华新材'}
+  进度: 1200/4415, 命中: 129, 错误: 0
+  ✅ 603318 水发燃气 - {'amplitude': '0.0991', 'slope': '0.001230', 'vol_front': '0.015216', 'vol_back': '0.012311', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.48), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603318', 'name': '水发燃气'}
+  ✅ 603329 上海雅仕 - {'amplitude': '0.0769', 'slope': '0.006291', 'vol_front': '0.016967', 'vol_back': '0.009729', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.97), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603329', 'name': '上海雅仕'}
+  ✅ 603330 天洋新材 - {'amplitude': '0.0989', 'slope': '0.001844', 'vol_front': '0.024478', 'vol_back': '0.015960', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.05), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603330', 'name': '天洋新材'}
+  进度: 1220/4415, 命中: 132, 错误: 0
+  ✅ 603351 威尔药业 - {'amplitude': '0.0803', 'slope': '0.010007', 'vol_front': '0.016437', 'vol_back': '0.012186', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(28.6), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603351', 'name': '威尔药业'}
+  进度: 1240/4415, 命中: 133, 错误: 0
+  ✅ 603373 安邦护卫 - {'amplitude': '0.0730', 'slope': '0.002924', 'vol_front': '0.016043', 'vol_back': '0.010626', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(41.2), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603373', 'name': '安邦护卫'}
+  ✅ 603387 基蛋生物 - {'amplitude': '0.0920', 'slope': '0.001322', 'vol_front': '0.018689', 'vol_back': '0.017273', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.23), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603387', 'name': '基蛋生物'}
+  进度: 1260/4415, 命中: 135, 错误: 0
+  ✅ 603408 建霖家居 - {'amplitude': '0.0878', 'slope': '0.003270', 'vol_front': '0.022378', 'vol_back': '0.019778', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.9), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603408', 'name': '建霖家居'}
+  ✅ 603439 三力制药 - {'amplitude': '0.0762', 'slope': '0.001920', 'vol_front': '0.013974', 'vol_back': '0.012132', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.72), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603439', 'name': '三力制药'}
+  进度: 1280/4415, 命中: 137, 错误: 0
+  ✅ 603520 司太立 - {'amplitude': '0.1121', 'slope': '0.002741', 'vol_front': '0.027693', 'vol_back': '0.013308', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.18), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603520', 'name': '司太立'}
+  进度: 1300/4415, 命中: 138, 错误: 0
+  ✅ 603566 普莱柯 - {'amplitude': '0.1091', 'slope': '0.014454', 'vol_front': '0.031436', 'vol_back': '0.008835', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.29), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603566', 'name': '普莱柯'}
+  进度: 1320/4415, 命中: 139, 错误: 0
+  ✅ 603600 永艺股份 - {'amplitude': '0.0744', 'slope': '0.002478', 'vol_front': '0.016088', 'vol_back': '0.008982', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.25), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603600', 'name': '永艺股份'}
+  ✅ 603609 禾丰股份 - {'amplitude': '0.0572', 'slope': '0.001740', 'vol_front': '0.008757', 'vol_back': '0.008475', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.58), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603609', 'name': '禾丰股份'}
+  进度: 1340/4415, 命中: 141, 错误: 0
+  进度: 1360/4415, 命中: 141, 错误: 0
+  进度: 1380/4415, 命中: 141, 错误: 0
+  ✅ 603700 宁水集团 - {'amplitude': '0.0887', 'slope': '0.007576', 'vol_front': '0.015309', 'vol_back': '0.011373', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.7), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603700', 'name': '宁水集团'}
+  ✅ 603706 东方环宇 - {'amplitude': '0.1029', 'slope': '0.015632', 'vol_front': '0.025380', 'vol_back': '0.006632', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(21.75), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603706', 'name': '东方环宇'}
+  进度: 1400/4415, 命中: 143, 错误: 0
+  ✅ 603717 天域生物 - {'amplitude': '0.0773', 'slope': '0.000586', 'vol_front': '0.016124', 'vol_back': '0.012765', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.05), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603717', 'name': '天域生物'}
+  进度: 1420/4415, 命中: 144, 错误: 0
+  ✅ 603797 联泰环保 - {'amplitude': '0.0661', 'slope': '0.002412', 'vol_front': '0.014475', 'vol_back': '0.008126', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.14), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603797', 'name': '联泰环保'}
+  ✅ 603801 志邦家居 - {'amplitude': '0.0635', 'slope': '0.004760', 'vol_front': '0.017101', 'vol_back': '0.009718', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.88), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603801', 'name': '志邦家居'}
+  ✅ 603810 丰山集团 - {'amplitude': '0.0929', 'slope': '0.009565', 'vol_front': '0.020587', 'vol_back': '0.014777', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(17.08), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603810', 'name': '丰山集团'}
+  进度: 1440/4415, 命中: 147, 错误: 0
+  ✅ 603817 海峡环保 - {'amplitude': '0.0543', 'slope': '0.000191', 'vol_front': '0.011706', 'vol_back': '0.008260', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.18), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603817', 'name': '海峡环保'}
+  ✅ 603819 神力股份 - {'amplitude': '0.1047', 'slope': '0.005339', 'vol_front': '0.023365', 'vol_back': '0.010884', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.24), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603819', 'name': '神力股份'}
+  ✅ 603836 海程邦达 - {'amplitude': '0.0946', 'slope': '0.005605', 'vol_front': '0.022282', 'vol_back': '0.019808', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(15.01), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603836', 'name': '海程邦达'}
+  ✅ 603856 东宏股份 - {'amplitude': '0.1136', 'slope': '0.011108', 'vol_front': '0.024645', 'vol_back': '0.012473', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.22), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603856', 'name': '东宏股份'}
+  ✅ 603858 步长制药 - {'amplitude': '0.0902', 'slope': '0.009927', 'vol_front': '0.017262', 'vol_back': '0.013235', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(17.96), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603858', 'name': '步长制药'}
+  ✅ 603860 中公高科 - {'amplitude': '0.0839', 'slope': '0.019417', 'vol_front': '0.012527', 'vol_back': '0.007839', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(33.31), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603860', 'name': '中公高科'}
+  进度: 1460/4415, 命中: 153, 错误: 0
+  ✅ 603866 桃李面包 - {'amplitude': '0.0644', 'slope': '0.002387', 'vol_front': '0.010972', 'vol_back': '0.008511', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.62), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603866', 'name': '桃李面包'}
+  进度: 1480/4415, 命中: 154, 错误: 0
+  ✅ 603909 建发合诚 - {'amplitude': '0.0586', 'slope': '0.000886', 'vol_front': '0.011760', 'vol_back': '0.011211', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(11.9), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603909', 'name': '建发合诚'}
+  进度: 1500/4415, 命中: 155, 错误: 0
+  ✅ 603937 丽岛新材 - {'amplitude': '0.1089', 'slope': '0.010467', 'vol_front': '0.023315', 'vol_back': '0.013630', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.31), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603937', 'name': '丽岛新材'}
+  进度: 1520/4415, 命中: 156, 错误: 0
+  ✅ 603987 康德莱 - {'amplitude': '0.0702', 'slope': '0.002986', 'vol_front': '0.014538', 'vol_back': '0.011085', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.55), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '603987', 'name': '康德莱'}
+  进度: 1540/4415, 命中: 157, 错误: 0
+  ✅ 605001 威奥股份 - {'amplitude': '0.0940', 'slope': '0.005260', 'vol_front': '0.024699', 'vol_back': '0.007634', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.41), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605001', 'name': '威奥股份'}
+  ✅ 605005 合兴股份 - {'amplitude': '0.0586', 'slope': '0.005027', 'vol_front': '0.007889', 'vol_back': '0.006532', 'narrow_segments': 2, 'breakout_pct': '0.00%', 'platform_high': np.float64(19.58), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605005', 'name': '合兴股份'}
+  进度: 1560/4415, 命中: 159, 错误: 0
+  ✅ 605077 华康股份 - {'amplitude': '0.0948', 'slope': '0.007907', 'vol_front': '0.017790', 'vol_back': '0.011177', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(16.65), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605077', 'name': '华康股份'}
+  ✅ 605108 同庆楼 - {'amplitude': '0.0765', 'slope': '0.003990', 'vol_front': '0.012254', 'vol_back': '0.010330', 'narrow_segments': 7, 'breakout_pct': '0.00%', 'platform_high': np.float64(20.7), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605108', 'name': '同庆楼'}
+  ✅ 605122 四方新材 - {'amplitude': '0.1132', 'slope': '0.014370', 'vol_front': '0.026985', 'vol_back': '0.011143', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(14.1), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605122', 'name': '四方新材'}
+  进度: 1580/4415, 命中: 162, 错误: 0
+  ✅ 605138 盛泰集团 - {'amplitude': '0.0955', 'slope': '0.006426', 'vol_front': '0.021416', 'vol_back': '0.010910', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.65), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605138', 'name': '盛泰集团'}
+  进度: 1600/4415, 命中: 163, 错误: 0
+  ✅ 605218 伟时电子 - {'amplitude': '0.0765', 'slope': '0.001520', 'vol_front': '0.013163', 'vol_back': '0.010426', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(20.25), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605218', 'name': '伟时电子'}
+  ✅ 605258 协和电子 - {'amplitude': '0.0840', 'slope': '0.010229', 'vol_front': '0.021237', 'vol_back': '0.010662', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(34.5), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605258', 'name': '协和电子'}
+  进度: 1620/4415, 命中: 165, 错误: 0
+  进度: 1640/4415, 命中: 165, 错误: 0
+  ✅ 605567 春雪食品 - {'amplitude': '0.1144', 'slope': '0.011091', 'vol_front': '0.023496', 'vol_back': '0.012831', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.24), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '605567', 'name': '春雪食品'}
+  ✅ 000002 万科A - {'amplitude': '0.1072', 'slope': '0.000550', 'vol_front': '0.021097', 'vol_back': '0.018832', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.18), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000002', 'name': '万科A'}
+  进度: 1660/4415, 命中: 167, 错误: 0
+  ✅ 000019 深粮控股 - {'amplitude': '0.1088', 'slope': '0.003641', 'vol_front': '0.018652', 'vol_back': '0.008789', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.57), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000019', 'name': '深粮控股'}
+  ✅ 000028 国药一致 - {'amplitude': '0.1008', 'slope': '0.020565', 'vol_front': '0.024728', 'vol_back': '0.006719', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(27.38), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000028', 'name': '国药一致'}
+  进度: 1680/4415, 命中: 169, 错误: 0
+  ✅ 000068 华控赛格 - {'amplitude': '0.1121', 'slope': '0.001820', 'vol_front': '0.015933', 'vol_back': '0.010801', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.7), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000068', 'name': '华控赛格'}
+  进度: 1700/4415, 命中: 170, 错误: 0
+  ✅ 000089 深圳机场 - {'amplitude': '0.0630', 'slope': '0.003781', 'vol_front': '0.015429', 'vol_back': '0.006955', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.37), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000089', 'name': '深圳机场'}
+  ✅ 000090 天健集团 - {'amplitude': '0.1009', 'slope': '0.003024', 'vol_front': '0.016986', 'vol_back': '0.015066', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.07), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000090', 'name': '天健集团'}
+  进度: 1720/4415, 命中: 172, 错误: 0
+  ✅ 000419 通程控股 - {'amplitude': '0.0781', 'slope': '0.002603', 'vol_front': '0.014555', 'vol_back': '0.011086', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.77), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000419', 'name': '通程控股'}
+  ✅ 000421 南京公用 - {'amplitude': '0.0923', 'slope': '0.000320', 'vol_front': '0.022574', 'vol_back': '0.006862', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.53), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000421', 'name': '南京公用'}
+  ✅ 000429 粤高速A - {'amplitude': '0.1027', 'slope': '0.012691', 'vol_front': '0.024172', 'vol_back': '0.008627', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.43), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000429', 'name': '粤高速A'}
+  ✅ 000498 山东路桥 - {'amplitude': '0.0515', 'slope': '0.001960', 'vol_front': '0.011903', 'vol_back': '0.006722', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.35), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000498', 'name': '山东路桥'}
+  进度: 1740/4415, 命中: 176, 错误: 0
+  ✅ 000507 珠海港 - {'amplitude': '0.0609', 'slope': '0.002082', 'vol_front': '0.015361', 'vol_back': '0.007708', 'narrow_segments': 7, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.6), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000507', 'name': '珠海港'}
+  ✅ 000514 渝开发 - {'amplitude': '0.1146', 'slope': '0.001210', 'vol_front': '0.018813', 'vol_back': '0.017465', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.55), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000514', 'name': '渝开发'}
+  ✅ 000524 岭南控股 - {'amplitude': '0.0904', 'slope': '0.003552', 'vol_front': '0.017959', 'vol_back': '0.007940', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(13.3), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000524', 'name': '岭南控股'}
+  ✅ 000529 广弘控股 - {'amplitude': '0.0520', 'slope': '0.002755', 'vol_front': '0.009819', 'vol_back': '0.008762', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.31), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000529', 'name': '广弘控股'}
+  进度: 1760/4415, 命中: 180, 错误: 0
+  ✅ 000539 粤电力A - {'amplitude': '0.0943', 'slope': '0.003828', 'vol_front': '0.028072', 'vol_back': '0.005706', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.97), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000539', 'name': '粤电力A'}
+  ✅ 000548 湖南投资 - {'amplitude': '0.1004', 'slope': '0.004927', 'vol_front': '0.023874', 'vol_back': '0.008214', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.93), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000548', 'name': '湖南投资'}
+  ✅ 000552 甘肃能化 - {'amplitude': '0.1120', 'slope': '0.001906', 'vol_front': '0.022806', 'vol_back': '0.018308', 'narrow_segments': 1, 'breakout_pct': '0.00%', 'platform_high': np.float64(2.58), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000552', 'name': '甘肃能化'}
+  进度: 1780/4415, 命中: 183, 错误: 0
+  ✅ 000570 苏常柴A - {'amplitude': '0.1064', 'slope': '0.005640', 'vol_front': '0.018294', 'vol_back': '0.013528', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.15), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000570', 'name': '苏常柴A'}
+  ✅ 000581 威孚高科 - {'amplitude': '0.0948', 'slope': '0.003183', 'vol_front': '0.023214', 'vol_back': '0.007703', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(22.28), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000581', 'name': '威孚高科'}
+  进度: 1800/4415, 命中: 185, 错误: 0
+  ✅ 000598 兴蓉环境 - {'amplitude': '0.0626', 'slope': '0.001071', 'vol_front': '0.016623', 'vol_back': '0.008648', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.43), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000598', 'name': '兴蓉环境'}
+  ✅ 000605 渤海股份 - {'amplitude': '0.0792', 'slope': '0.004484', 'vol_front': '0.014236', 'vol_back': '0.010346', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.35), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000605', 'name': '渤海股份'}
+  ✅ 000619 海螺新材 - {'amplitude': '0.1118', 'slope': '0.005558', 'vol_front': '0.024683', 'vol_back': '0.011285', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.76), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000619', 'name': '海螺新材'}
+  进度: 1820/4415, 命中: 188, 错误: 0
+  ✅ 000635 英力特 - {'amplitude': '0.0868', 'slope': '0.004703', 'vol_front': '0.018713', 'vol_back': '0.015835', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(10.48), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000635', 'name': '英力特'}
+  ✅ 000663 永安林业 - {'amplitude': '0.1038', 'slope': '0.003615', 'vol_front': '0.021666', 'vol_back': '0.019288', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(8.28), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000663', 'name': '永安林业'}
+  进度: 1840/4415, 命中: 190, 错误: 0
+  ✅ 000685 中山公用 - {'amplitude': '0.0871', 'slope': '0.004363', 'vol_front': '0.021057', 'vol_back': '0.014093', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(12.78), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000685', 'name': '中山公用'}
+  ✅ 000702 正虹科技 - {'amplitude': '0.0838', 'slope': '0.004586', 'vol_front': '0.014867', 'vol_back': '0.013949', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.2), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000702', 'name': '正虹科技'}
+  进度: 1860/4415, 命中: 192, 错误: 0
+  ✅ 000705 浙江震元 - {'amplitude': '0.0643', 'slope': '0.002869', 'vol_front': '0.013893', 'vol_back': '0.010013', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(9.81), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000705', 'name': '浙江震元'}
+  ✅ 000707 双环科技 - {'amplitude': '0.1011', 'slope': '0.005053', 'vol_front': '0.023520', 'vol_back': '0.017957', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(6.78), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000707', 'name': '双环科技'}
+  进度: 1880/4415, 命中: 194, 错误: 0
+  ✅ 000731 四川美丰 - {'amplitude': '0.0791', 'slope': '0.003373', 'vol_front': '0.020826', 'vol_back': '0.014411', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(7.12), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000731', 'name': '四川美丰'}
+  ✅ 000757 浩物股份 - {'amplitude': '0.0911', 'slope': '0.003152', 'vol_front': '0.024199', 'vol_back': '0.011880', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(5.35), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000757', 'name': '浩物股份'}
+  进度: 1900/4415, 命中: 196, 错误: 0
+  ✅ 000790 华神科技 - {'amplitude': '0.0978', 'slope': '0.001711', 'vol_front': '0.018996', 'vol_back': '0.018131', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(4.18), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000790', 'name': '华神科技'}
+  进度: 1920/4415, 命中: 197, 错误: 0
+  ✅ 000809 和展能源 - {'amplitude': '0.0868', 'slope': '0.000120', 'vol_front': '0.017119', 'vol_back': '0.013741', 'narrow_segments': 6, 'breakout_pct': '0.00%', 'platform_high': np.float64(3.65), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000809', 'name': '和展能源'}
+  ✅ 000819 岳阳兴长 - {'amplitude': '0.1108', 'slope': '0.007341', 'vol_front': '0.027886', 'vol_back': '0.010464', 'narrow_segments': 4, 'breakout_pct': '0.00%', 'platform_high': np.float64(17.32), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000819', 'name': '岳阳兴长'}
+  ✅ 000823 超声电子 - {'amplitude': '0.1074', 'slope': '0.000226', 'vol_front': '0.023858', 'vol_back': '0.022298', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(15.35), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000823', 'name': '超声电子'}
+  进度: 1940/4415, 命中: 200, 错误: 0
+  ✅ 000858 五粮液 - {'amplitude': '0.0970', 'slope': '0.010099', 'vol_front': '0.023996', 'vol_back': '0.009394', 'narrow_segments': 5, 'breakout_pct': '0.00%', 'platform_high': np.float64(110.77), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000858', 'name': '五粮液'}
+  ✅ 000860 顺鑫农业 - {'amplitude': '0.1081', 'slope': '0.000152', 'vol_front': '0.015369', 'vol_back': '0.007937', 'narrow_segments': 3, 'breakout_pct': '0.00%', 'platform_high': np.float64(15.9), 'stage': 'convergence', 'signal': 'CONVERGENCE', 'code': '000860', 'name': '顺鑫农业'}
