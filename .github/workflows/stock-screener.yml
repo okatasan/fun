@@ -1,6 +1,6 @@
 name: Stock Screener
 
-on:
+#on:
   workflow_dispatch:
   schedule:
     # 北京时间周一至周五 11:33 (UTC时间 03:33)
